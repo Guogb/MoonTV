@@ -35,11 +35,11 @@ export const useSidebar = () => useContext(SidebarContext);
 // 可替换为你自己的 logo 图片
 const Logo = () => (
   <Link
-    href='/'
+    href='/logo.png'
     className='flex items-center justify-center h-16 select-none hover:opacity-80 transition-opacity duration-200'
   >
     <span className='text-2xl font-bold text-green-600 tracking-tight'>
-      MoonTV
+      OkraWebTV
     </span>
   </Link>
 );

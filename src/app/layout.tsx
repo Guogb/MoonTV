@@ -8,8 +8,8 @@ import AuthProvider from '../components/AuthProvider';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'MoonTV',
-  description: '影视聚合',
+  title: 'OkraWebTV',
+  description: 'OkraWebTV-影视聚合',
   manifest: '/manifest.json',
 };
 
